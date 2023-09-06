@@ -1,3 +1,6 @@
 new york
 version3
 bug fix
+feature2
+commit3
+
